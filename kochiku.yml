@@ -1,0 +1,7 @@
+test_command: script/ci
+
+log_file_globs:
+  - log/*
+
+targets:
+  - type: test
