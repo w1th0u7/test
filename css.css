@@ -1,0 +1,16 @@
+body{
+    background-color:   goldenrod;
+}
+table{
+    font-size: medium;
+    font-style: inherit;
+}
+.idk{
+    color: aquamarine;
+}
+mark{
+    color: red;
+}
+td{
+    color: darkorange;
+}
